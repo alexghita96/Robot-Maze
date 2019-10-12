@@ -1,5 +1,5 @@
 # Robot-Maze
-Program that guides a robot through a maze with the A* algorithm. Also includes a few games. Environment provided for a courswork.
+Program that guides a robot through a maze using the A* algorithm. Also includes a few games. Environment provided for a courswork.
 
 # Compilation
 To compile, run the following command in the projetc directory: **java -cp maze-environment.jar GrandFinale.java**.
