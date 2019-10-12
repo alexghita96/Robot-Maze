@@ -1,4 +1,4 @@
-# Robot-Maze
+# Robot Maze
 Program that guides a robot through a maze using the A* algorithm. Also includes a few games. Environment provided for a coursework.
 
 # Compilation
